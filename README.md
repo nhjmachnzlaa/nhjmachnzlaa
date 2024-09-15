@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nhjmachnzlaa
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning pemrograman 
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me in Instagram 
 - 😄 Pronouns: ...
